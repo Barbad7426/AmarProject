@@ -1,0 +1,7 @@
+Step,Remaining,Excluded
+All participants,11933,0
+Age >= 20,7809,4124
+Examined at MEC,6064,1745
+Has SBP,5863,201
+Has weekly sleep,5782,81
+Has BMI,5726,56
